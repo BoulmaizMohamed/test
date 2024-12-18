@@ -1,0 +1,10 @@
+User
+
+Area
+ExpeditionKaruiWargraves
+Seed
+682052829
+Build
+release tags/3.22.1c 223873
+OSBits
+64

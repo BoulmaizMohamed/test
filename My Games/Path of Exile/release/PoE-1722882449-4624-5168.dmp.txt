@@ -1,0 +1,10 @@
+User
+
+Area
+KalguuranSettlersLeague
+Seed
+2020541385
+Build
+release tags/3.25.0c 246969
+OSBits
+64

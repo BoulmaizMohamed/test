@@ -1,0 +1,10 @@
+User
+
+Area
+MapWorldsStrand
+Seed
+606824747
+Build
+release tags/3.22.1 223089
+OSBits
+64

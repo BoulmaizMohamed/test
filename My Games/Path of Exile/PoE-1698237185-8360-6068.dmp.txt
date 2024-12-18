@@ -1,0 +1,10 @@
+User
+
+Area
+MapWorldsCrimsonTemple
+Seed
+3618673327
+Build
+release tags/3.22.2 225591
+OSBits
+64

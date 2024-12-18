@@ -1,0 +1,10 @@
+User
+
+Area
+LegionLeague4
+Seed
+3814640584
+Build
+release tags/3.22.1c 223873
+OSBits
+64

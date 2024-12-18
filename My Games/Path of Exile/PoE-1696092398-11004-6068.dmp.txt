@@ -1,0 +1,10 @@
+User
+
+Area
+MapWorldsMesa
+Seed
+3337015698
+Build
+release tags/3.22.1c 223873
+OSBits
+64

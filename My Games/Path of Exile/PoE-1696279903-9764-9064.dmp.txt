@@ -1,0 +1,10 @@
+User
+
+Area
+MapWorldsPhoenix
+Seed
+73460893
+Build
+release tags/3.22.1d 224525
+OSBits
+64

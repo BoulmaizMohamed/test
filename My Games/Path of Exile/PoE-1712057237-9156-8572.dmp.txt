@@ -1,0 +1,10 @@
+User
+
+Area
+HideoutBaths
+Seed
+1
+Build
+release tags/3.24.0 236969
+OSBits
+64
